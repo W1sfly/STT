@@ -1,5 +1,4 @@
-# STT
-Security Testing Tool  
+# Security Testing Tool  - STT -
 
 Script en bash  
 
